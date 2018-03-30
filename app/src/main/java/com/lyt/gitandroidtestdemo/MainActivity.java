@@ -12,9 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-        Log.e("lyt", "onCreate: master" );
-
-
+        Log.e("lyt", "onCreate: dev" );
 
     }
 }
